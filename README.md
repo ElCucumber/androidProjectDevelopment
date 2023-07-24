@@ -19,4 +19,4 @@ It works by extracting your WhatsApp installation from a mobile with adb-enabled
 
 Previous WhatsApp installation methods were difficult for new users to follow or of varying success. The point of WhatsTab
 is to make it easy for people to use WhatsApp on your device.
-Feel free to contact me
+Feel free to contact me.
